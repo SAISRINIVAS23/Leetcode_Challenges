@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
