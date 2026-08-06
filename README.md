@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0242-valid-anagram) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
