@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0867-transpose-matrix) |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1929-concatenation-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +109,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1572-matrix-diagonal-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
