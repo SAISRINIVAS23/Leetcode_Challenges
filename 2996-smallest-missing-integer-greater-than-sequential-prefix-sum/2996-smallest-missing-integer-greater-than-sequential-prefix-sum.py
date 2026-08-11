@@ -1,16 +1,22 @@
 class Solution:
     def missingInteger(self, A: list[int]) -> int:
-        n = len(A)
-        seen = set(A)
-        sum = A[0]
+        res = A[0]
+        seen = [False] * 52
+        seq = True
 
-        for i in range(1, n):
-            if A[i] == A[i - 1] + 1:
-                sum += A[i]
+        seen[A[0]] = True
+
+        for i in range(1, len(A)):
+            if seq and A[i] == A[i - 1] + 1:
+                res += A[i]
             else:
-                break
+                seq = False
+                if res > 50:
+                    return res
+            seen[A[i]] = True
 
-        while sum in seen:
-            sum += 1
+        for i in range(res, 52):
+            if not seen[i]:
+                return i
 
-        return sum
+        return res
