@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
