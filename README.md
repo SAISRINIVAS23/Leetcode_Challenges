@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0867-transpose-matrix) |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
