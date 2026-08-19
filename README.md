@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 ## Matrix
@@ -145,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
