@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0073-set-matrix-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
 ## Counting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0053-maximum-subarray) |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
