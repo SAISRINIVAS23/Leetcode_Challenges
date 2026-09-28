@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1140-stone-game-ii) |
+| [1512-number-of-good-pairs](https://github.com/SAISRINIVAS23/Leetcode_Challenges/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
